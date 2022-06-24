@@ -7,4 +7,6 @@ green
 yellow
 orange
 red
-
+blue
+purple
+pink

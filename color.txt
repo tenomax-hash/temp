@@ -14,3 +14,5 @@ light blue
 grey
 black
 white
+oragne red
+white yellow

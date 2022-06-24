@@ -1,0 +1,10 @@
+////////////////
+Rainbow colors:-
+////////////////
+violet
+indigo
+green
+yellow
+orange
+red
+

@@ -17,3 +17,6 @@ white
 orange red
 canter points
 values are possible
+possible to add more colors
+which is most favorable color
+do not change the counter parts

@@ -10,3 +10,7 @@ red
 blue
 purple
 pink
+light blue
+grey
+black
+white
